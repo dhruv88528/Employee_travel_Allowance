@@ -6,8 +6,11 @@
   "type": "module",
   "dev": "nodemon",
   "scripts": {
-    "start": "nodemon index.js"
-  },
+  
+  "start": "node index.js"
+},
+
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
